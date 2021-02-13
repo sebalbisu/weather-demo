@@ -1,0 +1,19 @@
+{
+    "Weather": [
+        {
+            "Id": "place1",
+            "Temperature": 0.11,
+            "Humidity": 0.11
+        },
+        {
+            "Id": "place2",
+            "Temperature": 0.12,
+            "humidity": 0.12
+        },
+        {
+            "Id": "place3",
+            "Temperature": 0.14,
+            "humidity": 0.14
+        }
+    ]
+}
